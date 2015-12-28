@@ -1,0 +1,20 @@
+.album_cover{
+	width:25%;
+	height:50%;
+	border: 20px solid gray;
+}
+.photo_cover{
+	width:60%;
+	height:80%;
+	padding:2px;
+}
+.photo1{
+	width:75%;
+}
+.sk{
+	font-size:25px;
+}
+.para{
+	font-size:15px;
+	font-family:sans-serif;
+}
